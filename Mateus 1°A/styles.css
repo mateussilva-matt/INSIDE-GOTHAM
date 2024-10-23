@@ -1,0 +1,8 @@
+body{
+color: whitesmoke;
+background: rgb(66, 66, 66);
+}
+
+header{
+    border-bottom: solid 2px yellow;
+}
