@@ -1,0 +1,9 @@
+body{
+    color: whitesmoke;
+    background: rgb(66, 66, 66);
+    margin:0px;
+    }
+    
+    header{
+        border-bottom: solid 2px yellow;
+    }
